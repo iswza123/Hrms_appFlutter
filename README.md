@@ -28,6 +28,7 @@ Check Flutter installation:
 
 flutter doctor
 Setup Instructions
+
 Install dependencies
 flutter pub get
 Run the app
